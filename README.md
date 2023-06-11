@@ -57,7 +57,7 @@ This project provides an API for generating content using OpenAI's completion mo
 
 To use the generator, you will need an OpenAI API key. Follow these steps to set and use the `OPENAI_SECRET_KEY`:
 
-1. Obtain your OpenAI API key from the [OpenAI Dashboard](https://beta.openai.com/signup/).
+1. Obtain your OpenAI API key from this [OpenAI page](https://platform.openai.com/account/api-keys), you may have to create an account if you have not yet.
 2. Create a `.env` file in the root directory of your project (if it doesn't already exist).
 3. Add your OpenAI API key to the `.env` file in the following format:
 
